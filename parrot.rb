@@ -1,5 +1,4 @@
 def parrot
-  parrot_type =  "Pretty, Bird!"
   puts "Squawk!"
   return "Squawk!"
   
